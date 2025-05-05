@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luckey Sherpa</h1>
+<h1 align="center">Hi 👋, I'm Ruluckey Sherpa</h1>
 <h3 align="center">A passionate frontend/AI developer from Nepal</h3>
 
 - 🔭 I’m currently working on [Research on Multi-sensor Camera](https://github.com/luckeysherpa07/DepthCameraProject)
