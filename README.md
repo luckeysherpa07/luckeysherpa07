@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Typescript, React, React-Native**
   
-- 🌱 I’m currently learning **Python, Computer Vision, Machine Learning**
+- 🌱 I’m currently learning **Computer Vision, Machine Learning**
 
 - 📫 How to reach me **luckeysherpa07@gmail.com**
 
