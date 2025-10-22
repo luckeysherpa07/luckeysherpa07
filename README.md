@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on [Research on Multi-sensor Camera](https://github.com/luckeysherpa07/DepthCameraProject)
 
-- 🌱 I’m currently learning **Python, Computer Vision, Machine Learning**
-
-- 👯 I’m looking to collaborate on **project related to front-end, computer vision and machine learning**
-
 - 💬 Ask me about **Typescript, React, React-Native**
+  
+- 🌱 I’m currently learning **Python, Computer Vision, Machine Learning**
 
 - 📫 How to reach me **luckeysherpa07@gmail.com**
 
